@@ -187,7 +187,7 @@ public class Player {
                 ", crdr=" + crdr +
                 ", xg=" + xg +
                 ", xag=" + xag +
-                ", team='" + team + '\'' +
+                ", teamName='" + team + '\'' +
                 '}';
     }
 }
